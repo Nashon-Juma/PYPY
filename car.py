@@ -14,7 +14,7 @@ class Car:
             self.reading = mileage
             print(self.reading)
         else:
-            print(f"You can't change an odometer! to {mileage}")
+            print(f"You can not change an odometer! to {mileage}")
 
 class ElectricCar(Car):
     def __init__(self, model,make,year):

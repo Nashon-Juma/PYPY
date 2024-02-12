@@ -10,7 +10,7 @@ def show_completed_models(completed_models):
     for completed_model in completed_models:
         print(completed_model)
 
-unprinted_designs = ['phone case', 'robot pendant', 'dodecahedron']
+unprinted_designs = ['cases', 'robot pendant', 'dodecahedron']
 completed_models = []
 print_models(unprinted_designs, completed_models)
 show_completed_models(completed_models)

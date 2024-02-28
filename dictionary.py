@@ -3,7 +3,7 @@ def noD():
     no['1']='one'
     no['2']='two'
     no['3']='three'
-    no['4']='four'
+    no['5']='five'
     return no
 
 def main():
@@ -11,7 +11,7 @@ def main():
     print(dictionary['1'])
     print(dictionary['2'])
     print(dictionary['3'])
-    print(dictionary['4'])
+    print(dictionary['5'])
 
 def man():
     dictionary=noD()

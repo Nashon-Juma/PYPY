@@ -8,6 +8,6 @@ while majinaa:
     majinaa[name]=answer
     if repeat=='no':
         Active=False
-print('-----------POLLS RESULTS---------------')
+print('-----------POLLS RESULTS---------- -----')
 for name,answer in majinaa.items():
     print(name+ 'would like to have'+ answer)

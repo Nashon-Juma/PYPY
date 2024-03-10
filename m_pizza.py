@@ -17,7 +17,7 @@ class Car:
             print(f"You can not change an odometer! to {mileage}")
 
 class Battery:
-    def __init__(self,battery_size=75):
+    def __init__(self,battery_size = 75):
         self.battery_size = battery_size
     def describe_battery(self):
         print(f"This car has a {self.battery_size}-kWh battery.")

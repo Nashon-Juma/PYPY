@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T10:27:16.565Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="It-b39yUV0tvrfwqMCPG" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T10:27:22.964Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="695VYSrqJmvkxgMagMY6" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1430" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
           <mxGeometry x="170" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K9lmm6ITHRkYkjCh9aoi-0" value="The sculpture&#xa;zone" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="300" width="400" height="350" as="geometry" />
+          <mxGeometry x="390" y="280" width="400" height="350" as="geometry" />
         </mxCell>
         <mxCell id="K9lmm6ITHRkYkjCh9aoi-1" value="Actor 1" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="K9lmm6ITHRkYkjCh9aoi-0" vertex="1">
           <mxGeometry y="40" width="400" height="110" as="geometry" />

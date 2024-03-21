@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T16:49:04.680Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7FdOcdXPQcJXAS0TP-j6" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T16:49:24.879Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="d9B0YxbQeRgjfvkjApH4" version="24.0.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1043" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="gwZ71VECqKEQb1goVR1L-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="399" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwZ71VECqKEQb1goVR1L-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

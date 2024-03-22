@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T16:13:32.873Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="O3BLWVORTRfJhP0lDt4V" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T16:14:30.945Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZgwGJPTBjT0qedX1UXJg" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="890" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
           <mxGeometry x="40" width="147" height="110" as="geometry">
             <mxRectangle width="147" height="110" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G1_ArWrjhfc6JRguIi_L-3" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_75_128x128.png" vertex="1" parent="K9lmm6ITHRkYkjCh9aoi-2">
+          <mxGeometry x="50" y="50" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K9lmm6ITHRkYkjCh9aoi-3" value="Phase 2" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="K9lmm6ITHRkYkjCh9aoi-1" vertex="1">
           <mxGeometry x="187" width="146" height="110" as="geometry">
@@ -145,19 +148,19 @@
           <mxGeometry x="280" y="170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LERAnsDfblFJw3YjVmCZ-0" value="d" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="570" width="200" height="200" as="geometry" />
+          <mxGeometry x="480" y="590" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LERAnsDfblFJw3YjVmCZ-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="LERAnsDfblFJw3YjVmCZ-0" vertex="1">
           <mxGeometry x="50" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G1_ArWrjhfc6JRguIi_L-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="LERAnsDfblFJw3YjVmCZ-0">
+          <mxGeometry x="70" y="80" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LERAnsDfblFJw3YjVmCZ-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LERAnsDfblFJw3YjVmCZ-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="390" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="G1_ArWrjhfc6JRguIi_L-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="670" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G1_ArWrjhfc6JRguIi_L-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="670" width="20" height="40" as="geometry" />

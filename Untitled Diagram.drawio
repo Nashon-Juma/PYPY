@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T16:14:30.945Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZgwGJPTBjT0qedX1UXJg" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T16:15:04.183Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QXCRxvu53JraH7PNE0Jd" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="890" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,10 +73,16 @@
             <mxRectangle width="146" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="G1_ArWrjhfc6JRguIi_L-4" value="" style="image;html=1;image=img/lib/clip_art/general/Keys_128x128.png" vertex="1" parent="K9lmm6ITHRkYkjCh9aoi-3">
+          <mxGeometry x="43" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="K9lmm6ITHRkYkjCh9aoi-4" value="Phase 3" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="K9lmm6ITHRkYkjCh9aoi-1" vertex="1">
           <mxGeometry x="333" width="87" height="110" as="geometry">
             <mxRectangle width="87" height="110" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G1_ArWrjhfc6JRguIi_L-6" value="" style="image;html=1;image=img/lib/clip_art/general/Tire_128x128.png" vertex="1" parent="K9lmm6ITHRkYkjCh9aoi-4">
+          <mxGeometry y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K9lmm6ITHRkYkjCh9aoi-9" value="THAT ALL" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="K9lmm6ITHRkYkjCh9aoi-0" vertex="1">
           <mxGeometry y="150" width="420" height="80" as="geometry" />

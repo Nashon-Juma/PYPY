@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T16:15:37.327Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wdzTKj25MZNmd1Y88hoo" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T16:15:51.640Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="evZ0cQ8viqwo9i5csc50" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="890" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,6 +107,9 @@
           <mxGeometry x="333" width="87" height="80" as="geometry">
             <mxRectangle width="87" height="80" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G1_ArWrjhfc6JRguIi_L-9" value="" style="image;html=1;image=img/lib/clip_art/people/Security_Man_Black_128x128.png" vertex="1" parent="K9lmm6ITHRkYkjCh9aoi-12">
+          <mxGeometry x="-3" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YBP9PyXsROXXt2PuYAlx-0" value="dev" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="70" width="30" height="60" as="geometry" />

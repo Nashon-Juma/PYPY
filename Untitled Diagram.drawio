@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T11:09:10.488Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="30Rfv9Yr4aLFmQoVfwcr" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T11:09:15.112Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pEg4meXQMOshV2X3TOaG" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="968" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
           <mxGeometry x="171" y="-52" width="69" height="82" as="geometry" />
         </mxCell>
         <mxCell id="G1_ArWrjhfc6JRguIi_L-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="512.76" width="30" height="37.24" as="geometry" />
+          <mxGeometry x="90" y="512.76" width="30" height="37.24" as="geometry" />
         </mxCell>
         <mxCell id="G1_ArWrjhfc6JRguIi_L-26" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="-50" width="80" height="80" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T07:10:09.023Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bP8WkZBnumrImVISk1PC" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T07:10:18.511Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="X9gRnn_oyzDMtcbyINHn" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1130" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G1_ArWrjhfc6JRguIi_L-3" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_75_128x128.png" parent="K9lmm6ITHRkYkjCh9aoi-2" vertex="1">
-          <mxGeometry x="33.5" y="51.36" width="80" height="50" as="geometry" />
+          <mxGeometry x="40" y="50" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K9lmm6ITHRkYkjCh9aoi-3" value="Phase 2" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="K9lmm6ITHRkYkjCh9aoi-1" vertex="1">
           <mxGeometry x="187" width="146" height="110" as="geometry">

@@ -193,7 +193,7 @@
           <mxGeometry x="88.06" y="503.97" width="41.94" height="52.07" as="geometry" />
         </mxCell>
         <mxCell id="G1_ArWrjhfc6JRguIi_L-26" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="157.5" y="-60" width="33.5" height="70" as="geometry" />
+          <mxGeometry x="157.5" y="-48" width="33.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cPyhhsT_Q8YuD4qYqS2C-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">

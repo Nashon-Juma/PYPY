@@ -217,9 +217,6 @@
         <mxCell id="tJxv38skYOOEkARRN_ab-0" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="162.5" y="-70" width="28.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NpWV5kVPdQGnXdRnyzqf-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G1_ArWrjhfc6JRguIi_L-10" target="G1_ArWrjhfc6JRguIi_L-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

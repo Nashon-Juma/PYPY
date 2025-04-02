@@ -192,9 +192,6 @@
         <mxCell id="G1_ArWrjhfc6JRguIi_L-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="88.06" y="503.97" width="41.94" height="52.07" as="geometry" />
         </mxCell>
-        <mxCell id="G1_ArWrjhfc6JRguIi_L-26" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="-90" width="28.5" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="cPyhhsT_Q8YuD4qYqS2C-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -211,11 +208,20 @@
             <mxPoint x="604.9680000000001" y="183.44999999999982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9U85RwLZLyZKLjCJhpw-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.365;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G1_ArWrjhfc6JRguIi_L-24" target="G1_ArWrjhfc6JRguIi_L-24" edge="1">
+        <mxCell id="V9U85RwLZLyZKLjCJhpw-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.365;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G1_ArWrjhfc6JRguIi_L-26" target="G1_ArWrjhfc6JRguIi_L-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tJxv38skYOOEkARRN_ab-0" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="165" y="-80" width="28.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M7FiUxuGUdnMoA1EM7k2-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.365;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G1_ArWrjhfc6JRguIi_L-24" target="G1_ArWrjhfc6JRguIi_L-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226" y="-30" as="sourcePoint" />
+            <mxPoint x="226" y="22" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1_ArWrjhfc6JRguIi_L-26" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="256.5" y="-90" width="28.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

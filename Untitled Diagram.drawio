@@ -154,6 +154,11 @@
         <mxCell id="LERAnsDfblFJw3YjVmCZ-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="390" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YRS1VM5YYqKKi5uqv69W-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G1_ArWrjhfc6JRguIi_L-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G1_ArWrjhfc6JRguIi_L-10" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png;imageBackground=default;imageBorder=default;fillStyle=zigzag-line;direction=east;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="405" y="-150" width="55" height="90" as="geometry" />
         </mxCell>

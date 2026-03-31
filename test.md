@@ -1,5 +1,3 @@
----
-
 # ✅ 1. Sequence Diagram (your main flow)
 
 ```mermaid

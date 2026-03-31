@@ -1,3 +1,8 @@
+---
+
+# ✅ 1. Sequence Diagram (your main flow)
+
+```mermaid
 sequenceDiagram
     participant User
     participant UI as Portal UI
@@ -21,3 +26,29 @@ sequenceDiagram
 
     Salesforce-->>Queue: Success / failure
     Queue->>DB: Update sync state
+```
+
+---
+
+# ✅ 2. System Architecture (cleaned version)
+
+```mermaid
+graph TD
+
+    User --> UI[Portal UI<br/>Inertia + Vue 3 + TypeScript]
+    UI --> Laravel[Laravel Application]
+
+    Laravel --> DB[(MySQL)]
+    Laravel --> Redis[Redis Cache / Queue]
+
+    Redis --> Workers[Queue Workers / Horizon]
+
+    Laravel --> Storage[BrilliantStorage Adapter]
+    Workers --> Storage
+
+    Laravel --> Salesforce[Salesforce Adapter]
+    Workers --> Salesforce
+
+    WordPress[WordPress Legacy] --> Jobs[Import + Reconciliation Jobs]
+    Jobs --> DB
+```

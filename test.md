@@ -45,3 +45,45 @@ graph TD
     WordPress[WordPress Legacy] --> Jobs[Import + Reconciliation Jobs]
     Jobs --> DB
 ```
+
+```mermaid
+flowchart TB
+    subgraph "Core Entities"
+        User["User<br/>(uuid, public_key, auth_type: sponsor|staff|admin|child)"]
+        Child["Child<br/>(salesforce_contact_id, consent_status, program_status, alumni_date, case_manager_id)"]
+        SponsorLink["SponsorLink<br/>(sponsor_user_id, child_id, relationship_type, status, dates)"]
+        Thread["CorrespondenceThread<br/>(child_id, sponsor_user_id)"]
+        Message["CorrespondenceMessage<br/>(thread_id, sender_id, subject, body, business_status, sync_status, salesforce_id)"]
+        Draft["CorrespondenceDraft<br/>(thread_id, sender_id, subject, body, autosave_timestamp)"]
+        Attachment["CorrespondenceAttachment<br/>(message_id / draft_id, BrilliantStorage provider)"]
+    end
+
+    subgraph "Services"
+        Eligibility["CommunicationEligibilityService"]
+        Workflow["CorrespondenceWorkflowService"]
+    end
+
+    subgraph "Integrations"
+        Outbox["IntegrationOutbox<br/>(entity_type, entity_id, event_type, payload, status)"]
+        Log["IntegrationLog<br/>(outbox_id, snapshots, retry_count)"]
+        Legacy["LegacyMapping"]
+    end
+
+    User --> Child
+    User --> SponsorLink
+    SponsorLink --> Child
+    SponsorLink --> Thread
+    Thread --> Message
+    Thread --> Draft
+    Message --> Attachment
+    Draft --> Attachment
+
+    Eligibility -.->|"validates"| SponsorLink
+    Eligibility -.->|"checks"| Child
+    Workflow -.->|"manages"| Draft
+    Workflow -.->|"manages"| Message
+    Workflow -.->|"records"| WorkflowTransition
+
+    Outbox -.->|"processes"| Queue
+    Outbox -.->|"logs"| Log
+```
